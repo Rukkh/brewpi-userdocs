@@ -46,7 +46,7 @@ This script can be installed using 'checkScript.sh install'. This adds it to cro
 * Added pin list for DIY shield
 * Parsing of the commit SHA in the Arduino version string
 
-`All brewpi-script changes on GitHub <https://github.com/BrewPi/brewpi-script/compare/0.3.0...0.3.1>`_
+`All brewpi-script changes on GitHub 0.3.0 -> 0.3.1 <https://github.com/BrewPi/brewpi-script/compare/0.3.0...0.3.1>`_
 
 
 Arduino code (brewpi-avr)  | 0.2.3.1 -> 0.2.4
@@ -79,7 +79,7 @@ The biggest changes in the Arduino code for this release are:
 * Added a minimum for overshoot estimators. They could not recover from being zero before this fix.
 * Include commit SHA in version number
 
-`All brewpi-www changes on GitHub <https://github.com/BrewPi/brewpi-www/compare/0.2.3.1...0.2.4>`_
+`All brewpi-www changes on GitHub 0.2.3.1 -> 0.2.4 <https://github.com/BrewPi/brewpi-www/compare/0.2.3.1...0.2.4>`_
 
 Install and update tools (Brewpi-tools)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -87,7 +87,7 @@ Install and update tools (Brewpi-tools)
 * Update script now also checks Arduino version and can reprogram the Arduino. It downloads the latest hex file from the BrewPi server.
 * Added Wifi check script to install (add to cron.d)
 
-`All brewpi-tools changes on GitHub <https://github.com/BrewPi/brewpi-tools/compare/0.1.0...0.2.0>`_
+`All brewpi-tools changes on GitHub 0.2.3.1 -> 0.2.4 <https://github.com/BrewPi/brewpi-tools/compare/0.1.0...0.2.0>`_
 
 
 December 23, 2013
@@ -128,7 +128,7 @@ Web interface (brewpi-www) | 0.2 -> 0.3
 * Room temp and fridge temp are now hidden by default to reduce clutter. Click the circles next to the graph to show them.
 * Bug fixes and layout fixes
 
-`All brewpi-www changes on GitHub <https://github.com/BrewPi/brewpi-www/compare/0.2.0...0.3.0>`_
+`All brewpi-www changes on GitHub 0.2 -> 0.3 <https://github.com/BrewPi/brewpi-www/compare/0.2.0...0.3.0>`_
 
 BrewPi Python scripts | 0.2 -> 0.3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -147,7 +147,7 @@ BrewPi Python scripts | 0.2 -> 0.3
 * Commands to start/stop/pause logging (script side)
 * Better error exception and lots of bug fixes
 
-`All brewpi-script changes on GitHub <https://github.com/BrewPi/brewpi-script/compare/0.2.0...0.3.0>`_
+`All brewpi-script changes on GitHub 0.2 -> 0.3 <https://github.com/BrewPi/brewpi-script/compare/0.2.0...0.3.0>`_
 
 Arduino code (brewpi-avr)  | 0.2.0 -> 0.2.3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -168,7 +168,7 @@ Arduino code (brewpi-avr)  | 0.2.0 -> 0.2.3
 * Inverted pin mode is now default for new devices
 * Beep as first thing at boot, so you know when the bootloader ends and brewpi starts
 
-`All brewpi-avr changes on GitHub <https://github.com/BrewPi/brewpi-avr/compare/0.2.0...0.2.3>`_
+`All brewpi-avr changes on GitHub 0.2.0 -> 0.2.3 <https://github.com/BrewPi/brewpi-avr/compare/0.2.0...0.2.3>`_
 
 BrewPi tools for bootstrapping and updating (brewpi-tools) | New
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -183,7 +183,7 @@ BrewPi tools for bootstrapping and updating (brewpi-tools) | New
     * Ask to stash changes on merge conflicts
     * Switch branches
 
-`All brewpi-tools changes on GitHub <https://github.com/BrewPi/brewpi-tools/compare/master%40%7B5years%7D...0.1.0>`_
+`All brewpi-tools changes on GitHub New <https://github.com/BrewPi/brewpi-tools/compare/master%40%7B5years%7D...0.1.0>`_
 
 
 
