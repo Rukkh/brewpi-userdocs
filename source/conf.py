@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'BrewPi'
-copyright = u'2013, BrewPi'
+copyright = u'2015, BrewPi'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -94,7 +94,7 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'default'
+html_theme = 'classic'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
